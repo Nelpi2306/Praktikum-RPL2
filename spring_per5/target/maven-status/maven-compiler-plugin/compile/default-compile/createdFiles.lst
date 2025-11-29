@@ -1,0 +1,4 @@
+com\mahasiswa\spring_per5\model\ModelMahasiswa.class
+com\mahasiswa\spring_per5\Pertemuan5SpringBootApplication.class
+com\mahasiswa\spring_per5\controller\MahasiswaController.class
+com\mahasiswa\spring_per5\repository\MahasiswaRepository.class
